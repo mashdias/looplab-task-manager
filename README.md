@@ -2,6 +2,10 @@
 
 A production-ready Task Management REST API built with Django, Django REST Framework, and PostgreSQL. It includes token-based authentication (SimpleJWT), role-based permissions (Admin vs Member), soft deletion, activity logging via Django signals, and a minimal React frontend.
 
+
+## Walkthrough Video
+**Demo Video:** [Click here to watch the application walkthrough](https://drive.google.com/file/d/1KtapCDbwgcMIiAv45VEl08GDcwdAW6yH/view?usp=sharing)
+
 ## Prerequisites
 - Python 3.10+
 - Node.js 18+
